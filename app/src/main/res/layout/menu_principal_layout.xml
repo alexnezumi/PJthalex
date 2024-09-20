@@ -26,9 +26,12 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menuacessorio"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
@@ -39,8 +42,8 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/acessoriokuromi"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/acessoriokuromi" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -54,9 +57,12 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menuroupas"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
@@ -67,8 +73,8 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/roupas"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/roupas" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -89,9 +95,12 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menubonecos"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
@@ -102,8 +111,8 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/bonecos"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/bonecos" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -117,9 +126,12 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menuobjetos"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
@@ -130,8 +142,8 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/objetos"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/objetos" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -158,15 +170,18 @@
             app:cardCornerRadius="10dp">
 
             <LinearLayout
+                android:id="@+id/menusanriro"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:clickable="true"
+                android:focusable="true"
                 android:orientation="vertical">
 
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="200dp"
-                    android:src="@drawable/sanrio"
-                    android:scaleType="centerCrop"/>
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/sanrio" />
 
                 <TextView
                     android:layout_width="wrap_content"
@@ -180,9 +195,12 @@
         </androidx.cardview.widget.CardView>
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menupersonagens"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
+            android:clickable="true"
+            android:focusable="true"
             app:cardCornerRadius="10dp">
 
             <LinearLayout
