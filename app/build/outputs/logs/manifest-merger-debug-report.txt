@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-41:12
-INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-59:12
+INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:1-59:12
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\8f1b1885c6b206c874232c6f1e69ac26\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\0b64d0d661db4c8b67d2f58fbab394ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\c2e16d7653bdf1eba6fe77bc7061403b\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
@@ -56,8 +56,8 @@ MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Laborat
 	xmlns:android
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:5:5-39:19
-INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:5:5-39:19
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:5:5-57:19
+INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:5:5-57:19
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\8f1b1885c6b206c874232c6f1e69ac26\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.10.0] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\8f1b1885c6b206c874232c6f1e69ac26\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Laboratorio-Info\.gradle\caches\transforms-4\0b64d0d661db4c8b67d2f58fbab394ae\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
@@ -96,52 +96,88 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\La
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:13:9-43
 	android:dataExtractionRules
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:7:9-65
-activity#br.com.etec.myapp.CadastrarSenhaActivity
+activity#br.com.etec.myapp.PersonagensActivity
 ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:16:13-51
-activity#br.com.etec.myapp.RecuperarSenhaActivity
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:16:13-48
+activity#br.com.etec.myapp.SanriroActivity
 ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:18:9-20:40
 	android:exported
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:19:13-51
-activity#br.com.etec.myapp.MenuPrincipalActivity
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:19:13-44
+activity#br.com.etec.myapp.ObjetosActivity
 ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:21:9-23:40
 	android:exported
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:23:13-37
 	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:22:13-50
-activity#br.com.etec.myapp.LoginActivity
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:22:13-44
+activity#br.com.etec.myapp.bonecosActivity
 ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:24:9-26:40
 	android:exported
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:25:13-42
-activity#br.com.etec.myapp.SplashActivity
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:27:9-35:20
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:25:13-44
+activity#br.com.etec.myapp.RoupasActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:27:9-29:40
 	android:exported
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:29:13-36
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:29:13-37
 	android:name
 		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:28:13-43
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:30:13-34:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:31:17-69
-	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:31:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:33:17-77
-	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:33:27-74
-activity#br.com.etec.myapp.MainActivity
-ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:36:9-38:39
+activity#br.com.etec.myapp.AcessoriosActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:30:9-32:40
 	android:exported
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:38:13-36
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:32:13-37
 	android:name
-		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:37:13-41
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:31:13-47
+activity#br.com.etec.myapp.CadastrarSenhaActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:33:9-35:40
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:34:13-51
+activity#br.com.etec.myapp.RecuperarSenhaActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:37:13-51
+activity#br.com.etec.myapp.MenuPrincipalActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:39:9-41:40
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:40:13-50
+activity#br.com.etec.myapp.LoginActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:42:9-44:40
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:44:13-37
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:43:13-42
+activity#br.com.etec.myapp.SplashActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:45:9-53:20
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:46:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:48:13-52:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:49:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:51:17-77
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:51:27-74
+activity#br.com.etec.myapp.MainActivity
+ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:54:9-56:39
+	android:exported
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:56:13-36
+	android:name
+		ADDED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml:55:13-41
 uses-sdk
 INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Laboratorio-Info\AndroidStudioProjects\PJthalex\app\src\main\AndroidManifest.xml

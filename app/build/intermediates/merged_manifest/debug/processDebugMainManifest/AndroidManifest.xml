@@ -28,6 +28,24 @@
         android:testOnly="true"
         android:theme="@style/Theme.MyApp" >
         <activity
+            android:name="br.com.etec.myapp.PersonagensActivity"
+            android:exported="false" />
+        <activity
+            android:name="br.com.etec.myapp.SanriroActivity"
+            android:exported="false" />
+        <activity
+            android:name="br.com.etec.myapp.ObjetosActivity"
+            android:exported="false" />
+        <activity
+            android:name="br.com.etec.myapp.bonecosActivity"
+            android:exported="false" />
+        <activity
+            android:name="br.com.etec.myapp.RoupasActivity"
+            android:exported="false" />
+        <activity
+            android:name="br.com.etec.myapp.AcessoriosActivity"
+            android:exported="false" />
+        <activity
             android:name="br.com.etec.myapp.CadastrarSenhaActivity"
             android:exported="false" />
         <activity
