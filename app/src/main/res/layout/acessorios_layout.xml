@@ -19,4 +19,37 @@
         android:textColor="#d5abff"
         android:textSize="30sp"
         android:textStyle="bold" />
+
+    <com.google.android.material.tabs.TabLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/caheiros"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chaveiros"
+            />
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/pulseiras"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Pulseiras"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/colares"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Colares"/>
+
+        <com.google.android.material.tabs.TabItem
+            android:id="@+id/adesivos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Adesivos"/>
+
+
+    </com.google.android.material.tabs.TabLayout>
+
 </LinearLayout>
