@@ -1,154 +1,234 @@
 [
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xhdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_sanrio.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/sanrio.png"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_logotipo.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/logotipo.png"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxxhdpi_kuromi_foreground.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxxhdpi\\kuromi_foreground.webp"
     },
     {
         "merged": "br.com.etec.myapp-debug-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
         "source": "br.com.etec.myapp-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_baseline_lock.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/baseline_lock.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_bonecos_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\bonecos_layout.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_recuperar_senha_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\recuperar_senha_layout.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_sanriro_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/sanriro_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_logotipo.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\logotipo.png"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/xml_backup_rules.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_acessorios_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/acessorios_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_roupas.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\roupas.png"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_roupas_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/roupas_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_objetos.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\objetos.png"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xhdpi_kuromi.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xhdpi\\kuromi.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_acessoriokuromi.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/acessoriokuromi.png"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_activity_main.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-hdpi_kuromi_foreground.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-hdpi\\kuromi_foreground.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_login_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/login_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_bonecos.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/bonecos.png"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-anydpi-v26_kuromi.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-anydpi-v26\\kuromi.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-hdpi_kuromi.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-hdpi\\kuromi.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/xml_data_extraction_rules.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_splash_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/splash_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_personagens_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\personagens_layout.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_personagens_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/personagens_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_baseline_arrow_back.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\baseline_arrow_back.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_menu_principal_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/menu_principal_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_icon.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\icon.png"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_objetos.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/objetos.png"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_roupas.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/roupas.png"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_sanrio.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\sanrio.png"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_baseline_arrow_back.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/baseline_arrow_back.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-anydpi-v26_kuromi_round.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-anydpi-v26\\kuromi_round.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_personagens.png.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/personagens.png"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/layout_recuperar_senha_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/recuperar_senha_layout.xml"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-hdpi/ic_launcher.webp"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/layout_objetos_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/objetos_layout.xml"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/drawable_baseline_person.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/drawable/baseline_person.xml"
-    },
-    {
-        "merged": "br.com.etec.myapp-debug-31:/layout_bonecos_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/bonecos_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
         "merged": "br.com.etec.myapp-debug-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "br.com.etec.myapp-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/layout_cadastrar_senha_layout.xml.flat",
-        "source": "br.com.etec.myapp-main-33:/layout/cadastrar_senha_layout.xml"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxxhdpi_kuromi_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxxhdpi\\kuromi_round.webp"
     },
     {
-        "merged": "br.com.etec.myapp-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "br.com.etec.myapp-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_objetos_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\objetos_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxhdpi_kuromi_foreground.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxhdpi\\kuromi_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_splash_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\splash_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-mdpi_kuromi_foreground.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-mdpi\\kuromi_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xhdpi_kuromi_foreground.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xhdpi\\kuromi_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_sanriro_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\sanriro_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_menu_principal_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\menu_principal_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-mdpi_kuromi_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-mdpi\\kuromi_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_acessoriokuromi.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\acessoriokuromi.png"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_bonecos.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\bonecos.png"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_acessorios_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\acessorios_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_cadastrar_senha_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\cadastrar_senha_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxxhdpi_kuromi.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxxhdpi\\kuromi.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-mdpi_kuromi.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-mdpi\\kuromi.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-hdpi_kuromi_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-hdpi\\kuromi_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_baseline_lock.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\baseline_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxhdpi_kuromi_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxhdpi\\kuromi_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_roupas_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\roupas_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_personagens.png.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\personagens.png"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xhdpi_kuromi_round.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xhdpi\\kuromi_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\mipmap-xxhdpi_kuromi.webp.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\mipmap-xxhdpi\\kuromi.webp"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\layout_login_layout.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\layout\\login_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-debug-31:\\drawable_baseline_person.xml.flat",
+        "source": "C:\\Users\\Laboratorio-Info\\.gradle\\daemon\\8.7\\br.com.etec.myapp-main-33:\\drawable\\baseline_person.xml"
     }
 ]
