@@ -15,6 +15,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:text="Menu principal"
+
         android:textAllCaps="true"
         android:textColor="#d5abff"
         android:textSize="30sp"
@@ -164,11 +165,11 @@
         android:orientation="horizontal">
 
         <androidx.cardview.widget.CardView
+            android:id="@+id/menusanriro"
             android:layout_width="200dp"
             android:layout_height="250dp"
             android:layout_margin="10dp"
-            app:cardCornerRadius="10dp"
-            android:id="@+id/menusanriro">
+            app:cardCornerRadius="10dp">
 
             <LinearLayout
 

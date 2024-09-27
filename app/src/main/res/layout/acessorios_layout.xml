@@ -14,6 +14,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
         android:text="Acessorios"
         android:textAllCaps="true"
         android:textColor="#d5abff"
@@ -22,32 +23,32 @@
 
     <com.google.android.material.tabs.TabLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
+        android:layout_height="wrap_content"
+        app:tabMode="fixed">
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/caheiros"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Chaveiros"
-            />
+            android:text="Chaveiros" />
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/pulseiras"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Pulseiras"/>
+            android:text="Pulseiras" />
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/colares"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Colares"/>
+            android:text="Colares" />
 
         <com.google.android.material.tabs.TabItem
             android:id="@+id/adesivos"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Adesivos"/>
+            android:text="Adesivos" />
 
 
     </com.google.android.material.tabs.TabLayout>
