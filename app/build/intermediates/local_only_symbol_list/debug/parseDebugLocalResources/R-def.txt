@@ -5,6 +5,7 @@ color kuromi_background
 color white
 drawable acessoriokuromi
 drawable baseline_arrow_back
+drawable baseline_car
 drawable baseline_lock
 drawable baseline_person
 drawable bonecos
@@ -22,10 +23,13 @@ id btnCadastrarSenha
 id btnEntrar
 id btnRecuperar
 id btnRecuperarSenha
-id caheiros
+id chaveiros
 id colares
 id idCadRetorno
+id idCarrinho
 id idRecRetorno
+id idTabAcessorios
+id idViewPagerAcessorios
 id main
 id menuacessorio
 id menubonecos
