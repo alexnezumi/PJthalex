@@ -22,8 +22,11 @@ public class AdapterViewPagerThalex extends FragmentStateAdapter {
                 return new ColaresFragment();
             case 3:
                 return new AdesivosFragment();
+            default:
+                return new ChaveirosFragment();
         }
     }
+
 
     @Override
     public int getItemCount() {
