@@ -14,5 +14,10 @@
         android:contentDescription="botao"
         android:src="@drawable/baseline_car" />
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/RecAdesivo"/>
+
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

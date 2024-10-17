@@ -17,6 +17,7 @@ drawable objetos
 drawable personagens
 drawable roupas
 drawable sanrio
+id RecAcessorio
 id adesivos
 id btnCadastrar
 id btnCadastrarSenha
@@ -37,6 +38,7 @@ id menuobjetos
 id menupersonagens
 id menuroupas
 id menusanriro
+id modelo_chaveiro
 id pulseiras
 id txtEmail
 id txtSenha
@@ -50,6 +52,7 @@ layout fragment_colares
 layout fragment_pulseiras
 layout login_layout
 layout menu_principal_layout
+layout modelo_chaveiros
 layout objetos_layout
 layout personagens_layout
 layout recuperar_senha_layout
