@@ -16,6 +16,8 @@ public class AdesivosFragment extends Fragment {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_adesivos, container, false);
 
+
+
         return view;
     }
 }

@@ -16,16 +16,15 @@ import java.util.List;
 import java.util.zip.Inflater;
 
 public class RecyclerAdapterAdesivos extends RecyclerView.Adapter<RecyclerAdapterAdesivos.ViewHolder> {
-//cirando variáveis globais para representar a lista e o contexto
+    //cirando variáveis globais para representar a lista e o contexto
     private Context context;
-    private List <Adesivos> lstAdesivo;
+    private List<Adesivos> lstAdesivo;
 //criando contrustor
 
 
-    public RecyclerAdapterAdesivos(Context context, List<Adesivos> lstAdesivo, CardView IDadesivoKU, ImageView idAdesivoKU, TextView idTextoAdesivoKU) {
+    public RecyclerAdapterAdesivos(Context context, List<Adesivos> lstAdesivo) {
         this.context = context;
         this.lstAdesivo = lstAdesivo;
-
     }
 
     @NonNull
@@ -34,25 +33,21 @@ public class RecyclerAdapterAdesivos extends RecyclerView.Adapter<RecyclerAdapte
         View view;
 
         LayoutInflater inflater = LayoutInflater.from(context);
-        view = inflater.inflate(R.layout.fragment_adesivos,parent,false);
+        view = inflater.inflate(R.layout.fragment_adesivos, parent, false);
 
         return new ViewHolder(view);
     }
 
-    CardView modelo_adesivos;
-    ImageView IdAdesivoKU;
-    TextView IdTextoAdesivoKU;
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
-     holder.IdTextoAdesivoKU.setText(lstAdesivo.get(position).getTitulo());
-     holder.IdAdesivoKU.setImageResource(lstAdesivo.get(position).getImagem());
+        holder.IdTextoAdesivoKU.setText(lstAdesivo.get(position).getTitulo());
+        holder.IdAdesivoKU.setImageResource(lstAdesivo.get(position).getImagem());
 
     }
 
     @Override
     public int getItemCount() {
-
         return lstAdesivo.size();
     }
 
@@ -64,9 +59,12 @@ public class RecyclerAdapterAdesivos extends RecyclerView.Adapter<RecyclerAdapte
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
+
+
             modelo_adesivos = itemView.findViewById(R.id.modelo_adesivos);
-            IdAdesivoKU = itemView.findViewById((R.id.IdadesivoKU);
-            IdTextoAdesivoKU = itemView.findViewById((R.id.IdtextoadesivoKU);
+            IdAdesivoKU = itemView.findViewById(R.id.IdadesivoKU);
+            IdTextoAdesivoKU = itemView.findViewById(R.id.IdtextoadesivoKU);
+
 
         }
     }
