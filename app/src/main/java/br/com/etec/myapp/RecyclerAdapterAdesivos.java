@@ -39,14 +39,14 @@ public class RecyclerAdapterAdesivos extends RecyclerView.Adapter<RecyclerAdapte
         return new ViewHolder(view);
     }
 
-    CardView IDadesivoKU;
+    CardView modelo_adesivos;
     ImageView IdAdesivoKU;
     TextView IdTextoAdesivoKU;
 
     @Override
     public void onBindViewHolder(@NonNull ViewHolder holder, int position) {
      holder.IdTextoAdesivoKU.setText(lstAdesivo.get(position).getTitulo());
-     holder.IdAdesivoKU.setImage(lstAdesivo.get(position).getImagem());
+     holder.IdAdesivoKU.setImageResource(lstAdesivo.get(position).getImagem());
 
     }
 
@@ -57,10 +57,14 @@ public class RecyclerAdapterAdesivos extends RecyclerView.Adapter<RecyclerAdapte
     }
 
     public class ViewHolder extends RecyclerView.ViewHolder {
+        CardView modelo_adesivos;
+        ImageView IdAdesivoKU;
+        TextView IdTextoAdesivoKU;
+
 
         public ViewHolder(@NonNull View itemView) {
             super(itemView);
-
+            modelo_adesivos = itemView.findViewById(R.id.modelo_adesivos);
             IdAdesivoKU = itemView.findViewById((R.id.IdadesivoKU);
             IdTextoAdesivoKU = itemView.findViewById((R.id.IdtextoadesivoKU);
 
